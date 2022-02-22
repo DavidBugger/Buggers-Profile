@@ -1802,6 +1802,10 @@ progress {
   color: var(--bs-table-hover-color);
 }
 
+h1{
+  text-decoration: none;
+}
+
 .table-primary {
   --bs-table-bg: #fdf9df;
   --bs-table-striped-bg: #f0edd4;
